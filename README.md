@@ -41,18 +41,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavya-pilani&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-pilani&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Finalist, **Code With DCG Hackathon 2024** – Top 20 out of 200+ teams  
 - 🔢 Solved **300+ problems** on LeetCode, GFG, and Code360 with 75%+ accuracy  
-- 🎓 AIR 20,500 (JEE Mains) | AIR 16,000 (JEE Advanced)
 
 ---
 
@@ -67,7 +59,6 @@
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-pilani-164477285)  
-📫 bhavyapilani_23mc041@dtu.ac.in
 
 ---
 
