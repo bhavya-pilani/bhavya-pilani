@@ -1,65 +1,95 @@
 # 👋 Hi, I'm Bhavya Pilani!
 
-🎓 B.Tech (Mathematics & Computing), Delhi Technological University (2023–2027)  
-💻 Full Stack Developer | MERN | Open Source | AI/ML Enthusiast  
-📍 Currently exploring scalable systems, AI integrations, and problem-solving on LeetCode
+🎓 B.Tech in Mathematics & Computing, Delhi Technological University (2023–2027)
+💻 Software Engineer | Full Stack Developer | GenAI & RAG Enthusiast
+📍 Passionate about building scalable systems, AI-powered applications, and high-performance backend services.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**:  
-`C++` `JavaScript` `Python` `SQL` `HTML/CSS`
+### Languages
 
-**Frameworks & Libraries**:  
-`React` `Node.js` `Express.js` `Zustand` `Tailwind CSS` `Socket.io`
+`C++` `Python` `TypeScript` `JavaScript` `SQL`
 
-**Databases & Tools**:  
-`MongoDB` `Cloudinary` `Git` `VS Code` `Postman`
+### Frontend
+
+`React` `Next.js` `Tailwind CSS` `React Query`
+
+### Backend
+
+`FastAPI` `Node.js` `Express.js` `Socket.io`
+
+### Databases & ORM
+
+`PostgreSQL` `MongoDB` `Prisma` `Supabase`
+
+### AI & Developer Tools
+
+`LangChain` `Gemini API` `pgvector` `Git` `GitHub` `Electron`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 💬 [Chattr – Real-time Chat App](https://chattr-ao8b.onrender.com/)
-> MERN | Socket.io | Zustand | Tailwind CSS  
-- Real-time messaging with online presence indicators  
-- JWT authentication and role-based access  
-- Robust error handling and global state management  
+### 🎥 Vync – Real-Time Video Recording Platform
 
-### 🛒 [Grocify – E-commerce Grocery Platform](https://grocify-f.vercel.app/)
-> MERN | Tailwind CSS | Cloudinary  
-- Responsive frontend with secure checkout flow  
-- Role-based access control and JWT protection  
-- Cloudinary integration for image handling  
+**Next.js • Electron • Express • PostgreSQL • React Query**
 
-### 🧠 [LeetGenie – AI Hint Assistant](https://github.com/bhavya-pilani/Leetcode-Extension)
-> Chrome Extension | Node.js | Gemini API  
-- Injects AI-powered hints directly into LeetCode  
-- Reduces time-to-solution with contextual support  
-- Draggable UI and backend hint engine  
+* Multi-window Electron desktop recorder with floating webcam overlay.
+* Reliable chunked video uploads using Socket.io and streaming write pipelines.
+* AI-powered recording summaries, transcripts, and titles using Gemini.
+* Optimistic UI with React Query for seamless user experience.
+
+---
+
+### 🧠 RAGVault – Multi-Tenant RAG Workspace
+
+**FastAPI • Next.js • PostgreSQL (pgvector) • LangChain • Supabase**
+
+* Built a production-style Retrieval-Augmented Generation platform.
+* Hybrid retrieval using vector search + PostgreSQL full-text search.
+* Parent-child chunking and multi-turn query rewriting.
+* Secure multi-tenant architecture with authentication, citations, and chat history.
+
+---
+
+## 💼 Experience
+
+### Software Development Engineer Intern — Fluwid Technologies
+
+* Developed scalable frontend features using Next.js, React, and TypeScript.
+* Integrated Razorpay with secure HMAC signature verification.
+* Built idempotent webhook handling for reliable payment processing.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Finalist, **Code With DCG Hackathon 2024** – Top 20 out of 200+ teams  
-- 🔢 Solved **300+ problems** on LeetCode, GFG, and Code360 with 75%+ accuracy  
+* 🥇 Knight on LeetCode (1900+ Rating)
+* 💯 Solved **700+** problems across LeetCode, Codeforces, and GeeksforGeeks.
+* 🏅 Top 20 Finalist — Code With DCG Hackathon 2024 (200+ teams)
+* 🎯 AIR 20,520 (JEE Main) & AIR 16,041 (JEE Advanced)
 
 ---
 
-## 🧠 Current Focus
+## 🌱 Currently Exploring
 
-- 📚 Learning system design and advanced backend patterns  
-- 🤖 Exploring AI/ML applications in real-world full-stack projects  
-- 🧩 Solving DSA problems on [LeetCode](https://leetcode.com/u/bhavya_10001/)
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-pilani-164477285)  
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* System Design & Distributed Systems
+* Backend Architecture
+* High-performance PostgreSQL
+* AI-powered Developer Tools
 
 ---
 
-_“Code. Build. Learn. Repeat.”_
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/bhavya-pilani-164477285
+* 💻 GitHub: https://github.com/bhavya-pilani
+* 🧩 LeetCode: https://leetcode.com/u/bhavya_10001/
+
+---
+
+> *"Building software that is scalable, reliable, and powered by AI."*
